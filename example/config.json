@@ -1,0 +1,8 @@
+{
+    "darkMode": "true",
+    "fontOptimization": "true",
+    "imageOptimization": "lossy",
+    "lang": "en",
+    "script": "typescript",
+    "style": "scss"
+}
